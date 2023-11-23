@@ -27,6 +27,7 @@ I am currently pursuing a specialized education in Electrical and Electronic Eng
 - Founded PractyAI, a startup venture aiming to create an advanced language practice chatbot. *(currenty inactive due to hiatus)*
 - Designed PCBs with more than 100 components.
 - Developed simple applications using Flask and Django; transitioned to React Native.
+- Internship at Aselsan
 
 ## 🛠 Skills
 - **Languages & Tech:**
