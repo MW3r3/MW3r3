@@ -8,6 +8,7 @@ I'm a 17-year-old high school student with a passion for technology and innovati
 - 🤖 Contributed to robotics and drones at my school, focusing on assembling and programming.
 - 🐍 Picked up Python in 8th grade and explored various topics including Linear Algebra, Polynomial Algebra and Computer Vision.
 - ☀️ Passionate about Data Science and AI.
+- I have a Yotube channel that i post short programming tips [My Channel](https://www.youtube.com/channel/UCH-imX_K8fvcHKb-Jelt9nQ)
 
 ## 🎓 Education
 
