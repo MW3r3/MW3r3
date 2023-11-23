@@ -57,7 +57,7 @@ I am currently pursuing a specialized education in Electrical and Electronic Eng
 - A donut-shaped code snippet that visualizes a donut in a 3D graph.
 
 ## 📫 How to Reach Me
-- Feel free to email me at melihbulut2006@gmail.com(mailto:melihbulut2006@gmail.com).
+- Feel free to email me at [melihbulut2006@gmail.com](mailto:melihbulut2006@gmail.com).
 - Feel free to contact me with my Instagram  [mwerehere](https://instagram.com/mwerehere) 
 
 ## ⭐️ What I'm Looking For 
