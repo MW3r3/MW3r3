@@ -1,67 +1,37 @@
+Hello, I'm Melih 👋
 
-# Hello World, I'm Melih 👋
+I'm an 18-year-old high school student with a passion for Data Science and AI development. I am currently pursuing Electrical and Electronic Engineering at Aselsan Vocational High School.
 
-I'm a 17-year-old high school student with a passion for technology and innovation. My programming journey began in 6th grade, starting with Arduino projects and later expanding into the realms of Data Science and AI.
+🚀 About Me
 
-## 🚀 About Me
-- 🎹 Developed a simple arduino-based piano as my first individual project.
-- 🤖 Contributed to robotics and drones at my school, focusing on assembling and programming.
-- 🐍 Picked up Python in 8th grade and explored various topics including Linear Algebra, Polynomial Algebra and Computer Vision.
-- ☀️ Passionate about Data Science and AI.
-- 💡 I have a Youtube channel that i post short programming tips [Melih Cloud](https://www.youtube.com/channel/UCH-imX_K8fvcHKb-Jelt9nQ)
+Hands-on Experience:
 
-## 🎓 Education
+Developed an Arduino-based piano as my first project.
 
-**Technical High School Student - Electrical and Electronic Engineering**
-Aselsan Vocational High School
+Contributed to robotics and drone projects at school.
 
-I am currently pursuing a specialized education in Electrical and Electronic Engineering at Aselsan Vocational High School, where I have the opportunity to deepen my understanding of electronics and apply this knowledge to my programming projects.
+Completed internships at Aselsan, including work in the testing department and developing backup communication systems for radars using C++ and TCP.
 
-## 💼 Internships
+Technical Expertise:
 
-**Aselsan**
-- Completed a 15-day internship where I gained hands-on experience in the field (Worked on testing department).
-- Scheduled for an additional 25 days to further develop practical skills and industry knowledge.
+Proficient in Python (Flask & Django) and experienced with JavaScript, TypeScript, React.js, and React Native.
 
-## 💼 Experience
-- Founded PractyAI, a startup venture aiming to create an advanced language practice chatbot. *(currenty inactive due to hiatus)*
-- Designed PCBs with more than 100 components.
-- Developed simple applications using Flask and Django; transitioned to React Native.
-- Internship at Aselsan
+Familiar with Arduino development, PCB design, and database management (SQL & NoSQL).
 
-## 🛠 Skills
-- **Languages & Tech:**
-  - Intermediate Computer knowledge across multiple OSes.
-  - Knowledge of Arduino development and PCB design software.
-  - Proficient in Python with understanding of Flask & Django.
-  - Experience with JavaScript & TypeScript, React.js & React Native.
-  - Knowledge of SQL and NoSQL database management.
-  - Web development skills in HTML, CSS, and JavaScript with backend expertise.
-  - Mobile app development with React Native using Expo framework.
+Basic knowledge of C++ and TCP protocols.
 
-## 📦 Projects
-### CLang (Arduino):
-- Multiple small projects including an Arduino Piano. *(Source code unavailable)*
+Projects & Initiatives:
 
-### Python:
-- Graph to Formula Converter. *(Source code unavailable)*
-- AI Push-Up Counter (part of AI Exercise Coach). *(Source code unavailable)*
-- Django Web Chatting App. *(Depreceated, switched to React Native)*
+CLang: Developed concept code for a tricopter (Teknofest) using Teensy 4.1 and modeled a Cansat Satellite using ESP-32.
 
-### TypeScript:
-- PractyAI Chat App using React Native. *(Unfinished due to startup hiatus)*
+Software Development: Created applications in Python, JavaScript, and TypeScript, including a web scraper for supermarket price data and a chat app with PractyAI—a startup focused on an advanced language practice chatbot.
 
-### JavaScript:
-- Felsefe Sozlugum - A simple dictionary app with over 300 Turkish philosophy terms.
-- LM-Studio-Mobile - A mobile client for a desktop app running local LLMs. *(In progress...)*
+Leadership: Lead the Software and Electronics teams of a robotics team (SHACSHUCA#10058) and contributed to an FRC team (Ladybug#9647) recognized with Rookie All Star and Rookie Inspiration awards.
 
-### RLang:
-- A donut-shaped code snippet that visualizes a donut in a 3D graph.
+📫 Contact
 
-## 📫 How to Reach Me
-- Feel free to email me at [melihbulut2006@gmail.com](mailto:melihbulut2006@gmail.com).
-- Feel free to contact me with my Instagram  [mwerehere](https://instagram.com/mwerehere) 
+Email: melihbulut2006@gmail.com
 
-## ⭐️ What I'm Looking For 
-I'm open to collaborative projects, internship opportunities, and learning from experienced mentors in the fields of Data Science and AI.
+Instagram: mwerehere
 
+I'm open to collaborative projects, internship opportunities, and mentorship in the fields of Data Science and AI. Let's connect!
